@@ -1,5 +1,7 @@
 # Logto on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/logto-2?utm_medium=integration&utm_source=button&utm_campaign=logto)
+
 This repo is the source of the **Logto** template on Railway. It deploys [Logto](https://github.com/logto-io/logto) **1.46.0**, an open-source identity and access platform (OIDC, OAuth 2.1, SAML SSO, RBAC, MFA, organizations).
 
 ## What the template deploys
